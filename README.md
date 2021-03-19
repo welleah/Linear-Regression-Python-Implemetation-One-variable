@@ -1,1 +1,1 @@
-# Linear-Regression-Python-Implemetation-One-variable-Linear-Regression-Python-Implementation
+# Linear-Regression-Python-Implemetation-One-variable
